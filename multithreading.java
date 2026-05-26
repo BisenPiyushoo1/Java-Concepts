@@ -1,4 +1,4 @@
-public class MultiThreading{
+public class multithreading {
     public static class MyThread extends Thread{
         @Override
         public void run(){
